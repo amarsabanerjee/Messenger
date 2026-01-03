@@ -11,6 +11,7 @@ const firebaseConfig = {
     messagingSenderId: "576742459247",
     appId: "1:576742459247:web:2b8edf8316688da2ac0a9a"
   };
+  
 
 
   //this special line of code connects everything
