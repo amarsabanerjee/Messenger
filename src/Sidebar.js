@@ -26,9 +26,7 @@ function Sidebar() {
         <div className="sidebar__header">
             <Avatar src={user.photoURL} onClick={e=>firebase.auth().signOut()}/>
             <div className="sidebar__headerRight">
-                <IconButton>
-                <DonutLargeIcon/>
-                </IconButton>
+               
 
                 <IconButton>
                 <ChatIcon/>
